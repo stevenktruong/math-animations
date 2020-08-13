@@ -1,0 +1,20 @@
+{
+    "name": "math-animations",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "clean": "rm -rf node_modules && yarn",
+        "dev": "next"
+    },
+    "repository": "https://github.com/stevenktruong/math-animations.git",
+    "author": "stevenktruong <steventruong@g.ucla.edu>",
+    "license": "MIT",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "gray-matter": "^4.0.2",
+        "next": "^9.5.2",
+        "path": "^0.12.7",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    }
+}
